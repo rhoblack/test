@@ -6,5 +6,6 @@ int main(void)
 	// 원격 저장소 추가
 	printf("hello world\n");
 	printf("hello world\n"); // 추가 내용.
+마스터 추가
 	return 0;
 }
