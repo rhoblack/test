@@ -3,7 +3,7 @@
 int main(void)
 {
 	int a;
-
+	// 원격 저장소 추가
 	printf("hello world\n");
 	return 0;
 }
