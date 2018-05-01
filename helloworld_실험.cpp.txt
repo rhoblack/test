@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(void)
+{
+	int a;
+	// 원격 저장소 추가
+	printf("hello world\n");
+	printf("hello world\n"); // 추가 내용.
+	printf("hello world\n"); // 마스터 브랜치에 추가
+
+	return 0;
+}
